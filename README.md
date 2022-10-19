@@ -1,5 +1,5 @@
    
-   <h2>Hello! My name is <a href="https://www.linkedin.com/in/ilolanicolau1/">Ilola Nicolau João 😃️</a></h2>
+   <h2 align="center">Hello! My name is <a href="https://www.linkedin.com/in/ilolanicolau1/">Ilola Nicolau João 😃️</a></h2>
    <h3> Software Developer(.NET DEVELOPER)</h3>
    <p>
      Technology lover and easy to learn, BSC in Computer Engineering at
