@@ -25,8 +25,7 @@
  
   ##
  
-<div> 
-  <a href="https://facebook.com/nicolaujoao.windbreakjoao" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Facebook_F_icon.svg/640px-Facebook_F_icon.svg.png" target="_blank"></a>
+<div align="center"> 
   <a href = "mailto:ilolanicolau1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ilolanicolau1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
