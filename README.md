@@ -9,7 +9,12 @@
      competitive since 2019 until now. I am particularly concerned with developing
      products/services that are useful in my location and enterprise world.
    </p>
-   
+   <div align="center">
+  <a href="https://github.com/nicolaujoao1">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicolaujoao1&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaujoao1&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
    #### "" Technologies & Contributions ""
    
 <div align="center" valign="top"><br>
