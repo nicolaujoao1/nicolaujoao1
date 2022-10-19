@@ -15,7 +15,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaujoao1&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-   #### "" Technologies & Contributions ""
+   <h1 align="center">#### "" Technologies & Contributions ""</h1>
    
 <div align="center" valign="top"><br>
   <img align="center" alt="Ilola C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
