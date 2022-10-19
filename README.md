@@ -15,7 +15,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaujoao1&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-   <h1 align="center">#### "" Technologies & Contributions ""</h1>
+   <h1 align="center"> "" Technologies & Contributions ""</h1>
    
 <div align="center" valign="top"><br>
   <img align="center" alt="Ilola C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
@@ -28,7 +28,11 @@
  
 </div><br>
  
-  ##
+  <div align="center">
+
+  ![Snake animation](https://github.com/nicolaujao1/nicolaujao1/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
  
 <div align="center"> 
   <a href = "mailto:ilolanicolau1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
