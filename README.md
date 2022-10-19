@@ -27,10 +27,8 @@
   <img align="center" alt="github" height="35" width="35" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-github-1.png&r=0&g=0&b=0">
  
 </div><br>
- 
   <div align="center">
-  ![Snake animation](https://github.com/nicolaujoao1/nicolaujoao1/blob/output/github-contribution-grid-snake.svg)
-  
+  ![Snake animation]( https://github.com/nicolaujoao1/nicolaujoao1/blob/output/github-contribution-grid-snake.svgg)
 </div>
  
 <div align="center"> 
