@@ -3,7 +3,7 @@
    <h3> Software Developer(.NET DEVELOPER)</h3>
    <p>
      Technology lover and easy to learn, BSC in Computer Engineering at
-     INTIC, I have been working for more than 2 years as a developer and I am also a
+     INSTIC(INSTITUTO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO), I have been working for more than 2 years as a developer and I am also a
      programming instrutor in my spare time. I have a great passion for
      competitive programming, I participate in Angolan collegiate programming contests(AOCPC),
      competitive since 2019 until now. I am particularly concerned with developing
