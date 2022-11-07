@@ -2,7 +2,7 @@
    <h2 align="center">Hello! My name is <a href="https://www.linkedin.com/in/ilolanicolau1/">Ilola Nicolau João 😃️</a></h2>
    <h3  align="center"> Software Developer(.NET DEVELOPER)</h3>
    <p>
-     Technology lover and easy to learn, BSC in Computer Engineering at
+     Technology lover and easy to learn, Last year in Computer Engineering at
      INSTIC(INSTITUTO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO), I have been working for more than 2 years as a developer and I am also a
      programming instrutor in my spare time. I have a great passion for
      competitive programming, I participate in Angolan collegiate programming contests(AOCPC),
