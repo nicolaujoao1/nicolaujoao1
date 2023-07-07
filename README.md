@@ -2,12 +2,11 @@
    <h2 align="center">Hello! My name is <a href="https://www.linkedin.com/in/ilolanicolau1/">Ilola Nicolau João 😃️</a></h2>
    <h3  align="center"> Software Developer(.NET DEVELOPER)</h3>
    <p>
-     Technology lover and easy to learn, Last year in Computer Engineering at
-     INSTIC(INSTITUTO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO), I have been working for more than 2 years as a developer and I am also a
-     programming instrutor in my spare time. I have a great passion for
-     competitive programming, I participate in Angolan collegiate programming contests(AOCPC),
-     competitive since 2019 until now. I am particularly concerned with developing
-     products/services that are useful in my location and enterprise world.
+    I am a technology enthusiast and a fast learner, I am a developer with programming experience, a finalist in the Computer Engineering course at ISUTIC and a programming instructor in 
+    my spare time, passionate about algorithms and solving algorithms in marathons and building a system complex. I am driven by the challenge of reaching the next level. My interests I 
+    like to solve problems professionals involve projects with the potential to generate positive social impact.
+      
+Call me inbox to code with your time 🎉🎉
    </p>
    <div align="center">
   <a href="https://github.com/nicolaujoao1">
