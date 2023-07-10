@@ -18,13 +18,8 @@ Call me inbox to code with your time 🎉🎉
    
 <div align="center" valign="top"><br>
   <img align="center" alt="Ilola C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Js" height="30" width="40" src="">
-  
-   <img align="center" alt="Js" height="30" width="40" src="https://onesolutionsweb.com/wp-content/uploads/2022/02/angular-icon-logo-284x300.png.webp">
-<img align="center" alt="Js" height="30" width="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TBoJP1qV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/377/landscape/typescriptlang.png](https://assets-blog.hostgator.com.br/wp-content/uploads/2021/03/logo-angular-768x387.webp)">
-  
-  
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Js" height="30" width="40" src="https://onesolutionsweb.com/wp-content/uploads/2022/02/angular-icon-logo-284x300.png.webp">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
