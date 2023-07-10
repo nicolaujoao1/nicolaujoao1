@@ -19,6 +19,8 @@ Call me inbox to code with your time 🎉🎉
 <div align="center" valign="top"><br>
   <img align="center" alt="Ilola C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Js" height="30" width="40" src=  https://res.cloudinary.com/practicaldev/image/fetch/s--TBoJP1qV-">
+  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
