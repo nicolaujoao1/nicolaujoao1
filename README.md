@@ -17,7 +17,7 @@ Call me inbox to code with your time 🎉🎉
    <h1 align="center"> "" Technologies & Contributions ""</h1>
    
 <div align="center" valign="top"><br>
-  <img align="center" alt="Ilola C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+  <img align="center" alt="Ilola C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="50" width="50">
   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"  width="40" height="40">  
   <img align="center" alt="Js" height="50" width="50" src="https://onesolutionsweb.com/wp-content/uploads/2022/02/angular-icon-logo-284x300.png.webp"  width="40" height="40">
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"  width="40" height="40">
