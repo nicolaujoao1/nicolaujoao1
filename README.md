@@ -2,9 +2,7 @@
    <h2 align="center">Hello! My name is <a href="https://www.linkedin.com/in/ilolanicolau1/">Ilola Nicolau João 😃️</a></h2>
    <h3  align="center"> Software Developer(.NET DEVELOPER)</h3>
    <p>
-    I am a technology enthusiast and a fast learner, I am a developer with programming experience, a finalist in the Computer Engineering course at ISUTIC and a programming instructor in 
-    my spare time, passionate about algorithms and solving algorithms in marathons and building a system complex. I am driven by the challenge of reaching the next level. My interests I 
-    like to solve problems professionals involve projects with the potential to generate positive social impact.
+    I am a technology enthusiast and software engineer with programming experience, passionate about algorithms and solving algorithms in marathons and building a system complex. I am driven by the challenge of reaching the next level. My interests I like to solve problems professionals involve projects with the potential to generate positive social impact.
       
 Call me inbox to code with your time 🎉🎉
    </p>
