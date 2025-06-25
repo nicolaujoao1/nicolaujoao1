@@ -8,12 +8,10 @@ Call me inbox to code with your time 🎉🎉
    </p>
 <div align="center">
   <a href="https://github.com/nicolaujoao1">
-    <img height="180em" src="https://readme-profile-git-main-nicolaujoao1s-projects.vercel.app/api?username=nicolaujoao1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolaujoao1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&show_owner=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaujoao1&layout=compact&theme=dracula&hide_border=false"/>
   </a>
 </div>
-
-
  
 </div><br>
 <div align="center"> 
